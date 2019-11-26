@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 9836-1F08
+
+ Directory of D:\GitPractice
+
+26-11-2019  19:40    <DIR>          .
+26-11-2019  19:40    <DIR>          ..
+26-11-2019  19:04                 3 Hello.html
+26-11-2019  19:04                 9 phk.txt
+26-11-2019  19:40                 0 textfile.txt
+               3 File(s)             12 bytes
+               2 Dir(s)  376,052,236,288 bytes free
